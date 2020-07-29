@@ -1,0 +1,26 @@
+#transformationVisualization {
+	float: right;
+	/*padding: 0.5% 0;*/
+}
+
+
+.table {
+	display: table;
+	border-collapse: separate;
+  	border-spacing: 10px 0;
+  	width: 30%;
+}
+
+.tableRow{
+	display: table-row;	
+}
+
+.tableCell input {
+	width: 50%;
+}
+
+.tableCell{
+	display: table-cell;
+	padding: 0.5% 0;
+}
+
